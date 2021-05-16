@@ -10,6 +10,8 @@ Note that many of the sounds and music listed here are used as a base to make an
 ## Models Used
     - Zombie de alta calidad modelo 3d, by Modellers [Turbosquid] - https://www.turbosquid.com/es/3d-models/free-x-model-zombie/1012761
 
+    - The big majority of assets were took from the free assets of Megascans library in Unreal Engine 4. Others are free assets from the Unreal Engine 4 marketplace.
+
 ## Sounds Used
     - Radio Sounds: Nagaty Studio - Sound Effects [YouTube] Walkie Talkie sound effect no copyright | Police Radio Chatter | HQ (https://www.youtube.com/watchv=RyXW6G67U-I)
     - Building Collapse Sound: Bluezone Corporation [YouTube] Building Collapse Sound Effects, Eathquake Sounds, Rocks Falling, Brick Wall Collapse, Crashes (https://www.youtube.com/watch?v=2tTCR4E_L2E)
