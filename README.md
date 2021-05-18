@@ -14,6 +14,7 @@ Note that many of the sounds and music listed here are used as a base to make an
 
 ## Sounds Used
     - Radio Sounds: Nagaty Studio - Sound Effects [YouTube] Walkie Talkie sound effect no copyright | Police Radio Chatter | HQ (https://www.youtube.com/watchv=RyXW6G67U-I)
+    - More Radio Sounds: Nagaty Studio - Sound Effects [YouTube] Radio Tuning Noise Static Sound Effect (https://www.youtube.com/watch?v=6GIrIs4Q_y4)
     - Building Collapse Sound: Bluezone Corporation [YouTube] Building Collapse Sound Effects, Eathquake Sounds, Rocks Falling, Brick Wall Collapse, Crashes (https://www.youtube.com/watch?v=2tTCR4E_L2E)
     - Different Sounds given by Carlos Coronado in its Udemy courses
 ## Music Used
