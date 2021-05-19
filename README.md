@@ -16,7 +16,9 @@ Note that many of the sounds and music listed here are used as a base to make an
     - Radio Sounds: Nagaty Studio - Sound Effects [YouTube] Walkie Talkie sound effect no copyright | Police Radio Chatter | HQ (https://www.youtube.com/watchv=RyXW6G67U-I)
     - More Radio Sounds: Nagaty Studio - Sound Effects [YouTube] Radio Tuning Noise Static Sound Effect (https://www.youtube.com/watch?v=6GIrIs4Q_y4)
     - Building Collapse Sound: Bluezone Corporation [YouTube] Building Collapse Sound Effects, Eathquake Sounds, Rocks Falling, Brick Wall Collapse, Crashes (https://www.youtube.com/watch?v=2tTCR4E_L2E)
+    - Helicopter Sound: Olavo Junior [YouTube] Helicopter Sound Effect - Flying 5 minutes (https://www.youtube.com/watch?v=2RtDgTm6rn4)
     - Different Sounds given by Carlos Coronado in its Udemy courses
+
 ## Music Used
     - Chernobyl Dark Music, by Cyro Chamber [YouTube] - https://www.youtube.com/watch?v=255Tz1CMrA8
     - Cold Survival Music, by Cyro Chamber [YouTube] - https://www.youtube.com/watch?v=eQyg8MBQQog
