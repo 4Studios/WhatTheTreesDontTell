@@ -1,6 +1,31 @@
 # WhatTheTreesDontTell
-Repository for the development of a videogame for Real-Time Narrative subject  of the degree in Videogames Design and Development at CITM (UPC)
+What the Trees don’t Tell is a First-Person Shooter mixed with characteristics of the Survival Horror 
+genre. The story guides the player through the experience of a special operations member who is 
+dispatched on a time-sensitive mission: to discover what happened in a special village amidst the woods. 
+Developed by 2 people during the Real-Time Narrative subject  of the degree in 
+Videogames Design and Development at CITM (UPC).
 
+## Authors:
+
+This is a project developed by 2 university students. We are:
+
+* GitHub account: [AitorSimona](https://github.com/AitorSimona)
+* GitHub account: [LuchoSuaya](https://github.com/AitorSimona)
+
+## How to use:
+
+### Keyboard/Mouse
+
+WASD to move
+Left click to shoot
+Right click to aim
+Space to jump
+Left shift to run
+R to reload
+
+## Tools
+- Visual Studio 2019
+- Unreal Engine 4.26
 
 # External Assets Used
 All assets are used without a commercial purpose, but for an educational and recreative purpose for the mentioned subject and university.
