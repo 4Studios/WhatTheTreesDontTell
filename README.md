@@ -10,7 +10,7 @@ Videogames Design and Development at CITM (UPC).
 This is a project developed by 2 university students. We are:
 
 * GitHub account: [AitorSimona](https://github.com/AitorSimona)
-* GitHub account: [LuchoSuaya](https://github.com/AitorSimona)
+* GitHub account: [LuchoSuaya](https://github.com/lucho1)
 
 ## How to use:
 
