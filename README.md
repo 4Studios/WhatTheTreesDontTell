@@ -7,10 +7,11 @@ Videogames Design and Development at CITM (UPC).
 
 ## Authors:
 
-This is a project developed by 2 university students. We are:
+This is a project developed by 3 university students. We are:
 
-* GitHub account: [AitorSimona](https://github.com/AitorSimona)
-* GitHub account: [LuchoSuaya](https://github.com/lucho1)
+* GitHub account: [Aitor Simona](https://github.com/AitorSimona)
+* GitHub account: [Lucho Suaya](https://github.com/lucho1)
+* GitHub account: [Sergi Parra](https://github.com/t3m1X)
 
 ## How to use:
 
@@ -24,8 +25,10 @@ Left shift to run
 R to reload
 
 ## Tools
-- Visual Studio 2019
-- Unreal Engine 4.26
+- [Visual Studio 2019](https://visualstudio.microsoft.com/es)
+- [Unreal Engine 4.26](https://www.unrealengine.com/en-US)
+- [AI Voice Actors](https://replicastudios.com) by Replica
+- [Audacity](https://audacity.es)
 
 # External Assets Used
 All assets are used without a commercial purpose, but for an educational and recreative purpose for the mentioned subject and university.
