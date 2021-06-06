@@ -10,7 +10,7 @@ dispatched on a time-sensitive mission: to discover what happened in a special v
 
 ### Final Version Gameplay
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/IQKgRedCbEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/IQKgRedCbEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to use:
 
