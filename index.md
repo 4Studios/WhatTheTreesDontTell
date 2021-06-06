@@ -29,6 +29,7 @@ We are:
 
 * GitHub account: [AitorSimona](https://github.com/AitorSimona)
 * GitHub account: [LuchoSuaya](https://github.com/lucho1)
+* GitHub account: [SergiParra](https://github.com/t3m1X)
 
 ## Tools
 - Visual Studio 2019
