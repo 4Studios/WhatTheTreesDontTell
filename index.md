@@ -1,8 +1,6 @@
 ## Welcome to What The Trees Don't Tell
 
-What the Trees don’t Tell is a First-Person Shooter mixed with characteristics of the Survival Horror 
-genre. The story guides the player through the experience of a special operations member who is 
-dispatched on a time-sensitive mission: to discover what happened in a special village amidst the woods. 
+What the Trees don’t Tell is a First-Person Shooter developed in UE4. The story guides the player through the experience of a special operations member who is dispatched on a time-sensitive mission: to discover what happened in a special village amidst the woods. Developed by 2 people during the Real-Time Narrative subject of the degree in Videogames Design and Development at CITM (UPC). 
 
 ![Image](docs/Welcome.png)
 
