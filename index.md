@@ -35,7 +35,7 @@ We are:
 
 ## External Assets Used
 
-All assets are used without a commercial purpose, but for an educational and recreative purpose for the mentioned subject and university.
+All assets are used without commercial purpose, but for an educational and recreative purpose for the mentioned subject and university.
 
 Note that many of the sounds and music listed here are used as a base to make another mix, better fit for this game. The software used to do this is Audacity.
 
