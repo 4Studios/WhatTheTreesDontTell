@@ -10,9 +10,9 @@ What the Trees don’t Tell is a First-Person Shooter developed in UE4. The stor
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/IQKgRedCbEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## How to use:
+## How to Play:
 
-### Keyboard/Mouse
+### Keyboard & Mouse
 
 - WASD to move
 - Left click to shoot
